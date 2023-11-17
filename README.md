@@ -12,7 +12,7 @@
 진주에 놀러오신다면 
 
 1. 진주성 가보기 
-    1. 진주박물관 필수 
+    1. [진주박물관](https://jinju.museum.go.kr/kor/) 필수 
     2. 진주성 근처에서 하모 인형 사기 
     3. 운석빵도 커피와 함께 
 2. 중앙시장에서 밥먹기 
@@ -37,7 +37,7 @@
 
 저는 축산학과인 만큼 동물에 대한 애정도 남다릅니다. 그래서 저가 제일 좋아하는 강아지는 시츄입니다.
 
-
+![귀여운강아지](https://i.namu.wiki/i/U-0EEx8QeQ81s92OHJrzfhjcC1FoeJHWN-Fpk18f3ejIiiqjatWM1uR07qHpBBwU1j4jbqzs21jNV6HHTqDAfs6qDMbvQrCsiqZM1pZbFkwipFXTNryiopT4gf0N8hnVNdDd2baCG96eLOEpvyPHdw.webp)
 ## 미래에 하고 싶은 것 
 
 데이터로 축산을 말하고 싶지만, 현실적으로 축산에 대한 데이터 베이스 조차 아직까지는 잘 만들어 지지 않은 실정입니다. 그래서 이러한 센서  데이터 베이스를 구축하여 데이터 를 만들어내는 회사도 차리고 싶지만, 돈이 없어요 ㅜㅜㅜㅜㅜ 
